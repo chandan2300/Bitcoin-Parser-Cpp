@@ -13,6 +13,7 @@
 ![output] (images/output.png)
 ! [output](images/output.png)
  ![output](images/output.png)
+ <img src="/images/output.png" alt="output" title="block data">
 
 
 This is a minimal C++ code snippet to read the bitcoin block chain one by one into memory.
