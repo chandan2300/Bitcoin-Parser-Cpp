@@ -11,7 +11,7 @@ Steps To Run
 ! [output] (images/output.png)
 ![output] (images/output.png)
 ! [output](images/output.png)
- ![output](images/output.png)
+ ![output](/images/output.png)
  <img src="/images/output.png" alt="output" title="block data">
 
 
