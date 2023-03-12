@@ -1,5 +1,4 @@
---------------------------------------------------------------------
-## Steps To Run
+Steps To Run
 
 1. Run "make" to build the executable file for Linux Systems and "mingw32-make" in Windows system.
 2. Run the executable file by passing the directory path with the .blk files. For Example : ./blockchain.out <path-to data folder> 
