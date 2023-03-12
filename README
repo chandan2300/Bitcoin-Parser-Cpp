@@ -9,7 +9,8 @@
 6. In order the view a particular block's transactions. Use the option "block <block-number>"
 
 The output should look something like this 
-![Output Image](output.png)
+
+![Output-Image](/output.png)
 
 
 This is a minimal C++ code snippet to read the bitcoin block chain one by one into memory.
