@@ -8,13 +8,7 @@
 5. Use the option "process" to link input addresses of transactions.
 6. In order the view a particular block's transactions. Use the option "block <block-number>"
 
-The output should look something like this 
-
-![Output-Image](https://github.com/chandan2300/Bitcoin-Parser-Cpp/blob/master/output.png)
-
-
 This is a minimal C++ code snippet to read the bitcoin block chain one by one into memory.
-
 
 It is comprised of just two source files; a header file describing the bitcoin blockchain
 data layout and an implementation CPP.  They are, combined, only a few hundred lines of
