@@ -8,6 +8,8 @@
 5. Use the option "process" to link input addresses of transactions.
 6. In order the view a particular block's transactions. Use the option "block <block-number>"
 
+![Image 1](/output.png)
+
 This is a minimal C++ code snippet to read the bitcoin block chain one by one into memory.
 
 It is comprised of just two source files; a header file describing the bitcoin blockchain
